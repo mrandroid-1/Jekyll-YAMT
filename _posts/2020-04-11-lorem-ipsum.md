@@ -1,7 +1,7 @@
 ---
 title: Uygulamanızı kodsuz ve ücretsize yapabileceğiniz siteler
 layout: post
-categories: [Tips, Markdown]
+categories: []
 image: /Screenshot 2020-11-26 at 12.29.37.png
 description: "home koduler kolay bir arayüzer sahip.."
 ---
